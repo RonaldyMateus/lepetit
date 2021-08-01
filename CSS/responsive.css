@@ -172,4 +172,12 @@
         justify-content: center;
     }
 }
+@media (max-width: 620px){
+   .contact{
+       display: none;
+   }
+   .social-mobile{
+       display: flex;
+   }
+}
     
