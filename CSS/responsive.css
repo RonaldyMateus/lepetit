@@ -1,0 +1,175 @@
+@media (max-width: 990px){
+    .menu-name{
+        display: none;
+    }
+
+    .hamburguer-menu{
+        margin-right: 16px;
+    }
+
+    .menuOpen {
+        margin-right: -52px;
+    }
+
+     .image{
+        display: none;
+    }
+
+    .section-sobre > .descricao{
+        height: 100%;
+        flex: 2;
+        padding-left: 20px;
+        margin-top: 80px;
+    }
+
+    #valores,  #valores:hover {
+        max-height: 290px;
+        width: 240px;
+    }
+     .title{
+        display: flex;
+        margin-top: 2%;
+        justify-content: center;
+        margin-bottom: 10%;
+        
+    }
+    .image-right{
+        display: none;
+    }
+
+    .section-pedagogia{
+        justify-content: center;
+       
+    }
+    .section-pedagogia .descricao>.title{
+        margin-left: 0;
+        margin-top: 70px;
+        font-size: 3.5rem;
+    }
+
+    .section-pedagogia .image>img{
+        display: none;
+    }
+
+    .img-mobile{
+        display: flex;
+    }
+    #valores-mobile{
+        max-width: 300px;
+    }
+    #coruja-mobile{
+        max-width: 130px;
+       margin-left: 60%;
+    }
+    .descricao{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section-pedagogia .descricao>.paragrafo{
+        width: 72%;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, .5);
+        color: white;
+        background-color: rgb(115, 4, 143);
+        border-top: 20px solid rgba(89, 0, 97, 0.349);
+        border-top-left-radius: 10%;
+        border-bottom-right-radius: 10%;
+        padding: 30px;
+    }
+
+    .section-pedagogia .listras {
+        margin-top: 25px;
+    }
+
+    .container-left {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section-turmas {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-turmas h1{
+        font-size: 3rem;
+    }
+    .section-turmas h2{
+        font-size: 5.5rem;
+    }
+    .desc-turmas{
+        flex-direction: column;
+    }
+
+    .desc-turmas > .logo{
+        display: none;
+    }
+
+    .img-menino{
+        display: none;
+    }
+
+    .swiper-container {
+        width: 100%;
+    }
+
+    .container-galery{
+        margin-left: 0;
+    }
+
+    .container-galery .galery-high img {
+        max-width: 100%;
+    }
+
+    .container-galery .swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after {
+        margin-right: 0;
+    }
+
+    .container-galery .swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after {
+        margin-left: 0;
+    }
+
+    .section-momentos > .title h2{
+        font-size: 80px;
+    }
+    .section-momentos > .title img{
+        display: none;
+    }
+    .section-momentos > .container-galery{
+       margin-left: 0;
+    }
+
+    .img-criancas{
+        display: none;
+    }
+
+    .title-form{
+        flex-direction: column;
+    }
+    .title-form img {
+        display: none
+    }
+
+    .form {
+        width: 92%;
+        margin-left: 4%;
+    }
+
+    .img-form img {
+        height: 55%;
+    }
+
+    .verify {
+        width: 48%;
+        justify-content: center;
+    }
+}
+    
