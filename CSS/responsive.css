@@ -1,0 +1,311 @@
+@media (max-width: 1255px) and (min-width: 991px){
+    .section-pedagogia .descricao>.title {
+        margin-left: -212px;
+    }
+    .section-turmas .desc-turmas{
+        display: block;
+    }
+    .horarios{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-criancas{
+        margin-bottom: -274px;
+    }
+    .img-criancas img{
+        width: 300px;
+    }
+    .title-form h2 {
+        font-size: 4rem;
+    }
+}
+@media (max-width: 990px){
+    .menu-name{
+        display: none;
+    }
+    .hamburguer-menu{
+        margin-right: 16px;
+    }
+    .menuOpen {
+        margin-right: -52px;
+    }
+     .image{
+        display: none;
+    }
+    .section-sobre > .descricao{
+        height: 100%;
+        flex: 2;
+        padding-left: 20px;
+        margin-top: 80px;
+    }
+    #valores,  #valores:hover {
+        max-height: 290px;
+        width: 240px;
+    }
+     .title{
+        display: flex;
+        margin-top: 2%;
+        justify-content: center;
+        margin-bottom: 10%;
+        
+    }
+    .image-right{
+        display: none;
+    }
+    .section-pedagogia{
+        justify-content: center;
+       
+    }
+    .section-pedagogia .descricao>.title{
+        margin-left: 0;
+        margin-top: 70px;
+        font-size: 3.5rem;
+    }
+    .section-pedagogia .image>img{
+        display: none;
+    }
+    .img-mobile{
+        display: flex;
+    }
+    #valores-mobile{
+        max-width: 300px;
+    }
+    #coruja-mobile{
+        max-width: 130px;
+       margin-left: 60%;
+    }
+    .descricao{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section-pedagogia .descricao>.paragrafo{
+        width: 72%;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, .5);
+        color: white;
+        background-color: rgb(115, 4, 143);
+        border-top: 20px solid rgba(89, 0, 97, 0.349);
+        border-top-left-radius: 10%;
+        border-bottom-right-radius: 10%;
+        padding: 30px;
+    }
+    .modal-diferenciais{
+        width: 80vw;
+    }
+    .section-pedagogia .listras {
+        margin-top: 25px;
+    }
+    .container-left {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section-turmas {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-turmas h1{
+        font-size: 3rem;
+    }
+    .section-turmas h2{
+        font-size: 5.5rem;
+    }
+    .desc-turmas{
+        flex-direction: column;
+    }
+    .img-menino{
+        display: none;
+    }
+    .swiper-container {
+        width: 100%;
+    }
+    .container-galery{
+        margin-left: 0;
+    }
+    .container-galery .galery-high img {
+        max-width: 100%;
+    }
+    .container-galery .swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after {
+        margin-right: 0;
+    }
+    .container-galery .swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after {
+        margin-left: 0;
+    }
+    .section-momentos > .title h2{
+        font-size: 80px;
+    }
+    .section-momentos > .title img{
+        display: none;
+    }
+    .section-momentos > .container-galery{
+       margin-left: 0;
+    }
+    .img-criancas{
+        display: none;
+    }
+    .title-form{
+        flex-direction: column;
+    }
+    .title-form img {
+        display: none
+    }
+    .form {
+        width: 92%;
+        margin-left: 4%;
+    }
+    .img-form img {
+        height: 55%;
+    }
+    .verify {
+        width: 48%;
+        justify-content: center;
+    }
+    .container-footer{
+        flex-direction: column;    }
+    .barra-footer{
+        display: none;
+    }
+    .direitos{
+        font-size: 16px;
+    }
+}
+    
+@media (max-width: 620px){
+   .contact{
+       display: none;
+   }
+   .social-mobile{
+       display: flex;
+   }
+   .section-sobre > .descricao  .listras{
+       margin-top: -80px;
+   }
+   .section-sobre > .descricao  .title1 h2{
+       margin-left: -26px;
+   }
+   .section-pedagogia > .descricao .title{
+       display: block;
+   }
+   .section-pedagogia > .descricao > .title h2{
+    margin-left: 0;
+    }
+    .section-pedagogia > .descricao > .title h2:nth-child(2){
+       margin-top: -40px;
+       margin-left: 127px;
+    }
+    .title-diferenciais img{
+        display: none;
+    }
+    .title-diferenciais h2{
+        margin-right: 55px;
+    }
+    .section-turmas h1 {
+        font-size: 2.2rem;
+    }
+    .section-turmas h2 {
+        font-size: 3.7rem;
+        margin-top: 32px;
+    }
+    .horarios img{
+        width: 100%;
+    }
+    .section-estrutura > .title img {
+       display: none;
+    }
+    .section-momentos > .title {
+        width: 132%;
+    }
+    .section-momentos > .title h2 {
+            font-size: 62px;
+            margin-left: 55px;
+    }
+    .img-form{
+        display: none;
+    }
+    .container-form{
+        width: 100%;
+    }
+    .form{
+        width: 90%;
+    }
+    #conhecer{
+        font-size: 3.5rem;
+    }
+    .verify{
+        width: 58%;
+    }
+    .dados h4{
+        font-size: 13px;
+    }
+    .dados p{
+        font-size: 10px;
+    }
+    .direitos{
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 440px){
+    section{
+        border-left: 10px solid; 
+        border-right: 10px solid;
+        border-top: 15px solid;
+        border-bottom: 15px solid;
+    }
+    .listras img{
+        width: 75%;
+    }
+    .section-sobre > .descricao  .title{
+        font-size: 45px;
+        margin-left: -51px;
+    }
+    .paragrafo {
+        font-size: 16px;
+        line-height: 188%;
+    }
+    #valores-mobile {
+        max-width: 250px;
+    }
+    #coruja-mobile{
+        max-width: 98px;
+    }
+    .logo img{
+        width: 40%;
+    }
+    .title-diferenciais h2 {
+        font-size: 4.5rem;
+    }
+    .mySwiper2> .swiper-wrapper> .swiper-slide img{
+        width: 100%;
+    }
+    .section-turmas h1 {
+        font-size: 1.7rem;
+    }
+    .section-turmas h2 {
+        font-size: 3rem;
+        margin-top: 32px;
+    }
+    .section-estrutura > .title {
+      font-size: 3rem;
+    }
+    .section-momentos > .title h2 {
+        font-size: 49px;
+    }
+    .title-form h2{
+        font-size: 4.5rem;
+    }
+    #conhecer{
+        font-size: 2.5rem;
+    }
+    .verify{
+        width: 75%;
+    }
+}
