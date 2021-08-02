@@ -179,5 +179,27 @@
    .social-mobile{
        display: flex;
    }
+   .section-sobre > .descricao  .listras{
+       margin-top: -80px;
+   }
+   .section-sobre > .descricao  .title1 h2{
+       margin-left: -26px;
+   }
+   .section-pedagogia > .descricao .title{
+       display: block;
+   }
+   .section-pedagogia > .descricao > .title h2{
+    margin-left: 0;
+    }
+    .section-pedagogia > .descricao > .title h2:nth-child(2){
+       margin-top: -40px;
+       margin-left: 127px;
+    }
+    .title-diferenciais img{
+        display: none;
+    }
+    .title-diferenciais h2{
+        margin-right: 55px;
+    }
 }
     
