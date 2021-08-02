@@ -36,7 +36,7 @@ body p{
     overflow: hidden;
 }
 .container{
-    max-width: 1600px;
+/*     max-width: 1600px; */
     overflow: hidden;
 }
 .header{
