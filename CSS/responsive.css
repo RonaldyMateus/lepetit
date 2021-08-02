@@ -97,6 +97,9 @@
     .section-pedagogia .listras {
         margin-top: 25px;
     }
+    .modal-diferenciais{
+        width: 80vw;
+    }
     .container-left {
         width: 100%;
         display: flex;
