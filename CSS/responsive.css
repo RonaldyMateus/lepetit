@@ -1,3 +1,9 @@
+
+@media (min-width: 991px){
+   .title{
+       margin-bottom: 5%;
+   } 
+}
 @media (max-width: 1255px) and (min-width: 991px){
     .section-pedagogia .descricao>.title {
         margin-left: -212px;
